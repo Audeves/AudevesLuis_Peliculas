@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Peliculas</string>
+
+    <string name="peli1">Blade Runner</string>
+    <string name="peli2">Corazon valiente</string>
+    <string name="peli3">El padrino</string>
+    <string name="peli4">El resplandor</string>
+    <string name="peli5">Taxi driver</string>
+
+    <string name="peli1_sinop">A principios del siglo XXI la Tyrrell Corporation ha creado robots virtualmente idénticos a los humanos llamados "replicantes". Siendo más fuertes que humanos e igual de inteligentes, son declarados ilegales en la tierra. Una brigada policial especial, los Blade Runners, están encargados de encontrar y eliminar replicantes renegados en la tierra. Cuando un grupo peligroso de replicantes se escapan a la ciudad de Los Ángeles, el Blade Runner Deckard es encargado de encontrarlos y eliminarlos.</string>
+    <string name="peli2_sinop">William Wallace es un rebelde escocés, que lidera una revuelta popular contra el cruel rey Eduardo I de Inglaterra, que quiere conseguir la corona de Escocia y quedarse con el país, aprovechando que el último rey no tuvo herederos.</string>
+    <string name="peli3_sinop">El Padrino narra la historia de un hombre, Vito Corleone, el capo más respetado de Nueva York. Déspota benevolente, implacable con sus rivales, inteligente y fiel a los principios del honor y la amistad.</string>
+    <string name="peli4_sinop">Jack Torrance se traslada junto a su mujer y a su introvertido hijo Danny a un impresionante hotel de Colorado del que ha de encargarse los larguísimos y solitarios meses de invierno. En el hotel comienzan a sucederse fenómenos paranormales que provocarán serios trastornos en la mente de Jack.</string>
+    <string name="peli5_sinop">Ambientada en la Nueva York de la década de 1970, poco después de que terminara la guerra de Vietnam, se centra en la vida de Travis Bickle, un excombatiente solitario e inestable que debido a su insomnio crónico comienza a trabajar como taxista, se incorpora a la turbia vida nocturna de la ciudad.</string>
+</resources>
