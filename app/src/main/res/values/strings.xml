@@ -7,9 +7,33 @@
     <string name="peli4">El resplandor</string>
     <string name="peli5">Taxi driver</string>
 
-    <string name="peli1_sinop">A principios del siglo XXI la Tyrrell Corporation ha creado robots virtualmente idénticos a los humanos llamados "replicantes". Siendo más fuertes que humanos e igual de inteligentes, son declarados ilegales en la tierra. Una brigada policial especial, los Blade Runners, están encargados de encontrar y eliminar replicantes renegados en la tierra. Cuando un grupo peligroso de replicantes se escapan a la ciudad de Los Ángeles, el Blade Runner Deckard es encargado de encontrarlos y eliminarlos.</string>
+    <string name="peli1_sinop">A principios del siglo XXI la Tyrrell Corporation ha creado robots virtualmente idénticos a los humanos llamados replicantes. Siendo más fuertes que humanos e igual de inteligentes, son declarados ilegales en la tierra. Una brigada policial especial, los Blade Runners, están encargados de encontrar y eliminar replicantes renegados en la tierra.</string>
     <string name="peli2_sinop">William Wallace es un rebelde escocés, que lidera una revuelta popular contra el cruel rey Eduardo I de Inglaterra, que quiere conseguir la corona de Escocia y quedarse con el país, aprovechando que el último rey no tuvo herederos.</string>
     <string name="peli3_sinop">El Padrino narra la historia de un hombre, Vito Corleone, el capo más respetado de Nueva York. Déspota benevolente, implacable con sus rivales, inteligente y fiel a los principios del honor y la amistad.</string>
     <string name="peli4_sinop">Jack Torrance se traslada junto a su mujer y a su introvertido hijo Danny a un impresionante hotel de Colorado del que ha de encargarse los larguísimos y solitarios meses de invierno. En el hotel comienzan a sucederse fenómenos paranormales que provocarán serios trastornos en la mente de Jack.</string>
     <string name="peli5_sinop">Ambientada en la Nueva York de la década de 1970, poco después de que terminara la guerra de Vietnam, se centra en la vida de Travis Bickle, un excombatiente solitario e inestable que debido a su insomnio crónico comienza a trabajar como taxista, se incorpora a la turbia vida nocturna de la ciudad.</string>
+    <string name="title_activity_navigation">NavigationActivity</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="serie1">The mandalorian</string>
+    <string name="serie2">Cobra Kai</string>
+    <string name="serie3">The Boys</string>
+    <string name="serie4">The Witcher</string>
+    <string name="serie5">Invecible</string>
+
+
+    <string name="serie_sinop1">El Mandaloriano se ubica tras la caída del Imperio y antes de que la Primera Orden surja. En la serie seguimos las aventuras de un pistolero solitario en los confines de la galaxia, lejos de la autoridad de la Nueva República.</string>
+    <string name="serie_sinop2">Cobra Kai es la secuela de la famosa saga cinematográfica Karate Kid. La serie sigue la historia 30 años después del campeonato de 1984, en el que Johnny no se encuentra en el mejor momento de su vida por lo que decide volver a abrir el famoso Dojo Cobra Kai para darle un giro.</string>
+    <string name="serie_sinop3">The Boys es la adaptación televisiva de la obra de Garth Ennis que presenta un mundo superheróico donde los héroes están corrompidos por la fama. Esta actitud cegada y de alta celebridad les lleva a poner en peligro al mundo más de una vez.</string>
+    <string name="serie_sinop4">El brujo Geralt, un cazador de monstruos, trata de encontrar su lugar en un mundo en el que las personas suelen ser más malvadas que las bestias.</string>
+    <string name="serie_sinop5">Markus Sebastian "Mark" Grayson era un chico normal y corriente de instituto, la única diferencia respecto a los demás es que su padre, Nolan Grayson, es Omni-Man, uno de los superhéroes más poderosos de la Tierra y perteneciente al supergrupo The Guardians of the Globe. A la edad de 16 años, Mark comienza a desarrollar superpoderes y comienza a trabajar como superhéroe bajo la tutela de su padre. Ocasionalmente Mark colabora con un superequipo llamado Teen Team formado por Robot, Rex Splode, Dupli-Kate y Atom Eve.</string>
+
+    <string name="menu_home">Peliculas</string>
+    <string name="menu_gallery">Series</string>
+    <string name="menu_slideshow">Favoritos</string>
 </resources>

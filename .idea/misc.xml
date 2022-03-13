@@ -3,8 +3,26 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/Desktop/AndroidStudioProjects/Peliculas/app/src/main/res/drawable/ic_baseline_favorite_24.xml" value="0.159" />
+        <entry key="..\:/Users/Desktop/AndroidStudioProjects/Peliculas/app/src/main/res/drawable/ic_baseline_live_tv_24.xml" value="0.159" />
+        <entry key="..\:/Users/Desktop/AndroidStudioProjects/Peliculas/app/src/main/res/drawable/ic_baseline_local_movies_24.xml" value="0.159" />
         <entry key="..\:/Users/Desktop/AndroidStudioProjects/Peliculas/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/Users/Desktop/AndroidStudioProjects/Peliculas/app/src/main/res/layout/activity_navigation.xml" value="0.21195652173913043" />
+        <entry key="..\:/Users/Desktop/AndroidStudioProjects/Peliculas/app/src/main/res/layout/activity_pelicula.xml" value="0.24175824175824176" />
+        <entry key="..\:/Users/Desktop/AndroidStudioProjects/Peliculas/app/src/main/res/layout/activity_series.xml" value="0.21195652173913043" />
+        <entry key="..\:/Users/Desktop/AndroidStudioProjects/Peliculas/app/src/main/res/layout/activity_series2.xml" value="0.21195652173913043" />
+        <entry key="..\:/Users/Desktop/AndroidStudioProjects/Peliculas/app/src/main/res/layout/app_bar_navigation.xml" value="0.21195652173913043" />
+        <entry key="..\:/Users/Desktop/AndroidStudioProjects/Peliculas/app/src/main/res/layout/content_navigation.xml" value="0.21195652173913043" />
+        <entry key="..\:/Users/Desktop/AndroidStudioProjects/Peliculas/app/src/main/res/layout/fragment_gallery.xml" value="0.21195652173913043" />
+        <entry key="..\:/Users/Desktop/AndroidStudioProjects/Peliculas/app/src/main/res/layout/fragment_home.xml" value="0.21195652173913043" />
+        <entry key="..\:/Users/Desktop/AndroidStudioProjects/Peliculas/app/src/main/res/layout/fragment_slideshow.xml" value="0.21195652173913043" />
+        <entry key="..\:/Users/Desktop/AndroidStudioProjects/Peliculas/app/src/main/res/layout/nav_header_navigation.xml" value="0.21195652173913043" />
         <entry key="..\:/Users/Desktop/AndroidStudioProjects/Peliculas/app/src/main/res/layout/pelicula_view.xml" value="0.2" />
+        <entry key="..\:/Users/Desktop/AndroidStudioProjects/Peliculas/app/src/main/res/layout/series_view.xml" value="0.22" />
+        <entry key="..\:/Users/Desktop/AndroidStudioProjects/Peliculas/app/src/main/res/menu/activity_main_drawer.xml" value="0.26875" />
+        <entry key="..\:/Users/Desktop/AndroidStudioProjects/Peliculas/app/src/main/res/menu/navigation.xml" value="0.26875" />
+        <entry key="..\:/Users/Desktop/AndroidStudioProjects/Peliculas/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.159" />
+        <entry key="..\:/Users/Desktop/AndroidStudioProjects/Peliculas/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.159" />
       </map>
     </option>
   </component>
