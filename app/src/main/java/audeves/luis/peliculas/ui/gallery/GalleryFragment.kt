@@ -54,7 +54,7 @@ class GalleryFragment : Fragment() {
         series.add(serie3)
         val serie4 = Series(4,getString(R.string.serie4),getString(R.string.serie_sinop4),R.drawable.the_witcher)
         series.add(serie4)
-        val serie5 = Series(5,getString(R.string.serie5),getString(R.string.serie_sinop5),R.drawable.invencible)
+        val serie5 = Series(5,getString(R.string.serie5),getString(R.string.serie_sinop5),R.drawable.daredevil)
         series.add(serie5)
     }
 
